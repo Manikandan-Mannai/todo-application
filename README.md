@@ -32,23 +32,23 @@ Follow these steps to run the Todo application on your local machine:
 2. **Navigate to the Project Directory:**
 Change your current directory to the project directory:
 
-```bash
-cd todo-app
-```
+   ```bash
+   cd todo-app
+   ```
 
 3. **Install Dependencies:**
 Install the necessary dependencies by running:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4. **Start the Development Server:**
 Start the development server by running:
 
-```bash
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 5. **View the Application:**
 Once the server has started, open your web browser and navigate to http://localhost:5173 to view the Todo application.
