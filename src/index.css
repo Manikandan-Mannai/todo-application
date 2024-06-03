@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #161535;
+  overflow-x: hidden;
+}
+
+.app{
+  position: relative;
+  width: 500px;
+  padding: 20px;
+  min-height: 55vh;
+  background-size: 100px;
+}
+
+/* viiolet - #7066fd */
+/*  todo - #f4f5f9*/
+/* dark - #161535 */
