@@ -27,4 +27,4 @@ Follow these steps to run the Todo application on your local machine:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Manikandan-Mannai/todo-application
