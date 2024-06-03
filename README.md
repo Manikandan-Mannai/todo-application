@@ -28,3 +28,32 @@ Follow these steps to run the Todo application on your local machine:
 
    ```bash
    git clone https://github.com/Manikandan-Mannai/todo-application
+
+2. **Navigate to the Project Directory:**
+Change your current directory to the project directory:
+
+```bash
+cd todo-app
+```
+
+3. **Install Dependencies:**
+Install the necessary dependencies by running:
+
+```bash
+npm install
+```
+
+4. **Start the Development Server:**
+Start the development server by running:
+
+```bash
+npm start
+```
+
+5. **View the Application:**
+Once the server has started, open your web browser and navigate to http://localhost:5173 to view the Todo application.
+
+**Additional Information**
+
+Developer: This Todo application was developed by [Manikandan](https://github.com/Manikandan-Mannai). You can find more about the developer on GitHub.
+Feel free to explore and modify the code as needed. If you have any questions or feedback, please don't hesitate to get in touch. Happy task managing!
